@@ -1,0 +1,7 @@
+C:\Users\reter\source\repos\dialog_window\dialog_window\obj\Debug\dialog_window.csproj.AssemblyReference.cache
+C:\Users\reter\source\repos\dialog_window\dialog_window\obj\Debug\dialog_window.csproj.CoreCompileInputs.cache
+C:\Users\reter\source\repos\dialog_window\dialog_window\bin\Debug\dialog_window.exe.config
+C:\Users\reter\source\repos\dialog_window\dialog_window\bin\Debug\dialog_window.exe
+C:\Users\reter\source\repos\dialog_window\dialog_window\bin\Debug\dialog_window.pdb
+C:\Users\reter\source\repos\dialog_window\dialog_window\obj\Debug\dialog_window.exe
+C:\Users\reter\source\repos\dialog_window\dialog_window\obj\Debug\dialog_window.pdb
